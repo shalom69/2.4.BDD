@@ -12,7 +12,7 @@ public class DataHelp {
     }
 
     public static AuthInfo getAuthInf() {
-        return new AuthInfo("oleg", "qwerty123");
+        return new AuthInfo("vasya", "qwerty123");
     }
 
     @Value
